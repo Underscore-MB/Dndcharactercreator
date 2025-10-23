@@ -6,5 +6,6 @@
 
 A small personal project
 
-Creates a .txt with all info
+Creates a .txt with all info input by the user
+<br><br>
 Use the button left of the load button to open the save file
