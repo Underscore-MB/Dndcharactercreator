@@ -21,7 +21,6 @@
     End Sub
 
     ' Opens the folder where the character file is saved (selects file if present)
-    ' NOTE: Add a button in the Designer named `btnOpenSave` and wire its Click event to this handler.
     Private Sub btnOpenSave_Click(sender As Object, e As EventArgs) Handles btnOpenSave.Click
         Try
             Dim folder As String = Application.StartupPath
